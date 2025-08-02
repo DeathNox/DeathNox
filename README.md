@@ -17,7 +17,9 @@ Welcome to my profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/dale chavez](https://www.linkedin.com/in/dale-chavez-3452a2258)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dale chavez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dale-chavez-3452a2258" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dale chavez" height="30" width="40" />
+</a>
 <a href="https://stackoverflow.com/users/deathnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deathnox" height="30" width="40" /></a>
 <a href="https://kaggle.com/dale chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dale chavez" height="30" width="40" /></a>
 </p>
